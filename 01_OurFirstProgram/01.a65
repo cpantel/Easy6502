@@ -1,3 +1,4 @@
+;Try changing the colour of the three pixels.
 LDA #$02
 STA $0200
 LDA #$03

@@ -1,3 +1,4 @@
+;Change one of the pixels to draw at the bottom-right corner (memory location $05ff).
 LDA #$02
 STA $0200
 LDA #$03

@@ -1,3 +1,4 @@
+;Add more instructions to draw extra pixels.
 LDA #$01
 STA $0200
 LDA #$01
